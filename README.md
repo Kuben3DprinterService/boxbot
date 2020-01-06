@@ -1,8 +1,9 @@
 # BoxBot 3D printer
+<img src="https://i.imgur.com/pO3QQ80.jpg" width="150">'
 
 ## Deltaker
 Usman
-Simen
+Magnus Valsgård
 
 ## Status
 
