@@ -9,6 +9,8 @@
 - Simen
 
 - Kristian
+
+- Lars
 ## Status
 
 ## Specifikasjoner
