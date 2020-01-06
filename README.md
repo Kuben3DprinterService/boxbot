@@ -1,5 +1,5 @@
 # BoxBot 3D printer
-<img src="https://i.imgur.com/pO3QQ80.jpg" width="200">'
+<img src="https://i.imgur.com/pO3QQ80.jpg" width="200">
 
 ## Deltaker
 - Usman
