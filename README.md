@@ -7,6 +7,8 @@
 - Magnus Valsgård
 
 - Simen
+
+- Kristian
 ## Status
 
 ## Specifikasjoner
