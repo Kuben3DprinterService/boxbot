@@ -8,7 +8,8 @@
 
 - Simen
 
-- Kristian
+-Christopher Bjørkeng
+
 ## Status
 
 ## Specifikasjoner
