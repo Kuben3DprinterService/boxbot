@@ -10,6 +10,8 @@
 
 - Christopher Bjørkeng
 
+- Kristian
+
 ## Status
 
 ## Specifikasjoner
