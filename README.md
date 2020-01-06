@@ -2,6 +2,7 @@
 
 ## Deltaker
 Usman
+Simen
 
 ## Status
 
