@@ -8,7 +8,7 @@
 
 - Simen
 
--Christopher Bjørkeng
+- Christopher Bjørkeng
 
 ## Status
 
