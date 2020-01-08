@@ -8,6 +8,8 @@
 
 - Simen
 
+- Lars Christian
+
 - Christopher Bjørkeng
 
 - Kristian
