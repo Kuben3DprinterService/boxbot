@@ -6,10 +6,6 @@
 
 - Magnus Valsgård
 
-- Simen
-
-- Lars Christian
-
 - Christopher Bjørkeng
 
 - Kristian
