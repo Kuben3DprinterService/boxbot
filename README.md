@@ -19,9 +19,13 @@
 -	Power Supply:
 
 Produsent: Mean Well
+
 Model no: GST220A24
+
 S/N: EB63367950
+
 Input: 100-240VAC 50/60 Hz, 4.0A
+
 Output: 24 V DC, 9.2A, 221W Max.
 
 -	PLA Filament 
