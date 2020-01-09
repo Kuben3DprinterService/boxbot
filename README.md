@@ -33,3 +33,5 @@ Output: 24 V DC, 9.2A, 221W Max.
 ## Mangende deler
 
 ## Ting som må fikses
+
+- Hot End
