@@ -28,6 +28,14 @@ Input: 100-240VAC 50/60 Hz, 4.0A
 
 Output: 24 V DC, 9.2A, 221W Max.
 
+-	Stepper Motor
+
+Model no: sy42sth38-1684a
+
+Bipolar
+
+200 Steps/Rev, 42×38mm
+
 -	PLA Filament 
 1,75 mm, Svart	
 
