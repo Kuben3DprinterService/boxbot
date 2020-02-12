@@ -34,4 +34,4 @@
 
 ## Ting som må fikses
 
-- Hot End
+- Hot End kjølefinner (tror det er plastikk inne i kjølefinnene)
