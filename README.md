@@ -34,4 +34,4 @@
 
 ## Ting som må fikses
 
-- Hot End kjølefinner (tror det er plastikk inne i kjølefinnene)
+- Hot End kjølefinner (tror det er plastikk inne i kjølefinnene) Tenker vi varmer opp hotend uten vifte på kjølefinner for å varme opp plastikken i varmeovergangen.
