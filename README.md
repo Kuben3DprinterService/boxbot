@@ -12,6 +12,10 @@
 
 - Szczepan
 
+## Lenker
+Bra lesing om bevegelsesystemer: https://all3dp.com/2/3d-printer-axis-all-you-need-to-know/
+
+
 ## Status
 
 ## Specifikasjoner
